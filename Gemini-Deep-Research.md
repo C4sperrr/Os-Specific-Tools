@@ -1,5 +1,8 @@
 2025 Yılında Os-Specific-Tools Alanındaki En Etkili 10 Teknik/Trend
 
+📌 Proje Özeti
+2025 yılı itibariyle işletim sistemi seviyesindeki araçlar ve teknolojiler, sadece temel görevleri yerine getirmekten çıkıp güvenlik, otomasyon ve yapay zeka ile entegre, yüksek yetenekli çözümlere evrilmiştir. Bu proje kapsamında, OS-Specific-Tools alanında öne çıkan 10 güncel teknik ve trend incelenmektedir. eBPF tabanlı çekirdek düzeyi izleme, makine öğrenimiyle desteklenen anomali tespiti, kuantum dirençli kriptografi ve güvenilir önyükleme gibi gelişmeler; sistem güvenliğini, performans izlemeyi ve tehdit müdahalesini tamamen dönüştürmektedir. Aynı zamanda konteyner ve sanallaştırma güvenliği, geliştirici odaklı güvenlik yaklaşımları ve XDR entegrasyonu gibi araçlar da, işletim sistemlerinin bulut, IoT ve kritik altyapı ortamlarında çok daha stratejik roller üstlenmesini sağlamaktadır. Bu çalışma, hem güvenlik profesyonelleri hem de sistem yöneticileri için geleceğe dönük bir yol haritası sunmayı amaçlamaktadır.
+
 1. eBPF (Extended Berkeley Packet Filter) Tabanlı İzleme ve Güvenlik
 
 Açıklama: eBPF, Linux çekirdeğinde güvenli bir şekilde kullanıcı tanımlı programların çalıştırılmasına olanak tanıyan devrim niteliğinde bir teknolojidir. Ağ trafiği analizi, performans izleme ve güvenlik denetimi gibi çeşitli alanlarda çekirdek düzeyinde görünürlük ve kontrol sağlar.
