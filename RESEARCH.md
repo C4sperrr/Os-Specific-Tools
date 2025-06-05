@@ -4,11 +4,13 @@
 
   Farklı işletim sistemlerinde bu bilgilere erişimin benzerlikleri ve farkları.
 
+
 2-Python ile İşlem Yönetimi Nasıl Yapılır?
 
   Python’da psutil kütüphanesi kullanılarak işlem listesi çıkarma ve işlemleri sonlandırma yöntemleri.
 
   Sistem kaynaklarına erişim izinleri ve güvenlik kısıtlamaları.
+
 
 3-Dosya Sistemlerine Erişim ve Denetim Araçları
 
@@ -16,17 +18,20 @@
 
   Python ile dosya filtreleme ve sıralama yaklaşımları.
 
+
 4-Sistem İzleme Araçları ile Karşılaştırma
 
   OS-Tools gibi araçların görev yöneticisi, htop/top gibi sistem araçları ile karşılaştırılması.
 
   Grafiksel ve metin tabanlı sistem izleyiciler arasındaki farklar.
 
+
 5-Açık Kaynak Kodlu Sistem Araçları: Avantaj ve Zorluklar
 
   Açık kaynak işletim sistemi araçlarının geliştirme süreçleri.
 
   Güvenlik, katkı sağlama ve lisanslama konuları.
+
 
 📌 Bonus: Proje Raporunda Kullanılabilecek Sorular
 Bu araçlar neden önemlidir? Gerçek dünyada ne tür kullanımları olabilir?
