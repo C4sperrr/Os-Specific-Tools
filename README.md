@@ -29,6 +29,13 @@ Projeye katkıda bulunmak isterseniz:
 
 Her türlü öneri, geri bildirim ve katkıya açığız!
 
+## Acknowledgements / Teşekkürler (Optional)
+Thanks to:
+
+Keyvan Arasteh (keyvan.arasteh@istinye.edu.tr)
+Istinye University
+Teşekkürler: Harika kütüphaneler ve ilham kaynakları için.
+
 ## Lisans
 
 Bu proje [MIT Lisansı](LICENSE) kapsamında lisanslanmıştır.
