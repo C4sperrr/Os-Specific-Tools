@@ -13,6 +13,22 @@ Python ile yazılmış, işletim sistemine yönelik temel görevleri gerçekleş
 - **Dosya Denetimi**
   - Bir dizindeki dosyaları listeler. Boyut, uzantı ve oluşturulma tarihine göre sıralama ve filtreleme seçenekleri sunar.
 
+## 🎯 Proje Hedefleri
+
+- Temel sistem bilgilerini (CPU, RAM, OS) kullanıcıya sunan araçlar geliştirmek.
+- İşlem yönetimi işlevleri sağlayarak çalışan süreçleri listeleyip sonlandırabilmek.
+- Dosya sistemini tarayarak boyut, uzantı ve oluşturulma tarihine göre dosya analizi yapmak.
+- Farklı işletim sistemlerine (Windows, Linux, macOS) uyumlu, çapraz platform yapıya sahip olmak.
+- Proje kapsamını genişleterek terminal arayüzü veya grafiksel arayüz eklemek.
+
+## 🔗 Faydalı Bağlantılar
+
+- [Python `psutil` Belgeleri](https://psutil.readthedocs.io/en/latest/)
+- [Python `platform` Modülü](https://docs.python.org/3/library/platform.html)
+- [OS Modülü Belgeleri](https://docs.python.org/3/library/os.html)
+- [MIT Lisansı Hakkında](https://opensource.org/licenses/MIT)
+- [Git ve GitHub Rehberi (Türkçe)](https://www.kodcu.com/2019/01/git-github-egitimi/)
+
 ## Takım
 
 Atakan Kenar
