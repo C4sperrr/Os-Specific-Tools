@@ -48,8 +48,8 @@ Her işletim sisteminde sanal ortam (virtual environment) oluştur ve etkinleşt
 
 python -m venv venv_<os_adi>
 
-source venv_<os_adi>/bin/activate   Linux/macOS
-venv_<os_adi>\Scripts\activate      Windows
+#source venv_<os_adi>/bin/activate   Linux/macOS
+#venv_<os_adi>\Scripts\activate      Windows
 
 İlgili OS için gerekli kütüphaneleri pip install komutuyla yükle.
  Windows için:
