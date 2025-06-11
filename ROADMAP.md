@@ -45,7 +45,6 @@ Her hedef işletim sistemi için ayrı bir test ortamı kurulmalı ve izole edil
 1. Geliştirme Ortamı Kurulumu:
 Her işletim sisteminde Python'ı (tercihen 3.x) ve pip'i yükle.
 Her işletim sisteminde sanal ortam (virtual environment) oluştur ve etkinleştir. Bu, bağımlılık çakışmalarını önleyecektir.
-
 python -m venv venv_<os_adi>
 # source venv_<os_adi>/bin/activate   #Linux/macOS
 # venv_<os_adi>\Scripts\activate      #Windows
