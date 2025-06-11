@@ -50,11 +50,11 @@ source venv_<os_adi>/bin/activate  # Linux/macOS
 venv_<os_adi>\Scripts\activate     # Windows
 
 İlgili OS için gerekli kütüphaneleri pip install komutuyla yükle.
-# Windows için:
+ Windows için:
 pip install pywin32 wmi colorama
-# Linux için:
+ Linux için:
 pip install psutil distro colorama
-# macOS için:
+ macOS için:
 pip install osascript colorama # PyObjC kurulumu daha karmaşık olabilir
 
 2. OS-Specific Test Ortamları:
